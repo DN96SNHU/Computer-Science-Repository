@@ -1,1 +1,7 @@
-
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CS210Project_3/CS210Project_3.vcxproj" />
+</Solution>
