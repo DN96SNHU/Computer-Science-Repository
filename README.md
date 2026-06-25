@@ -59,3 +59,26 @@ The interview transcript was the main source, with every design decision focusin
 *How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
 Gathering requirements first is a key habit that this course really showed the importance of. Understanding the users, their needs, and what constraints exist before starting work ensures that development will follow the right trajectory from the start, without the need for constant revision.
+
+
+**CS300**
+
+*What was the problem you were solving in the projects for this course?
+
+This COurse covered different data structures, and addressed the problem of which structure is ideal for a given scenario.
+
+*How did you approach the problem? Consider why data structures are important to understand.
+
+Evaluating which data structure is the best fit involved considering factors like search time, insertion cost and memory usage. Understanding data structures is important because a poor choice can become unusably slow or memory intensive with large inputs.
+
+*How did you overcome any roadblocks you encountered while going through the activities or project?
+
+When I hit a snag, I went back and reviewed materials, tested components in isolation, and walked myself through the logic so that I could understand the root cause of the issue.
+
+*How has your work on this project expanded your approach to designing software and developing programs?
+
+These projects were helpful in strengthening my thinking around data structure implementation, something that I rarely considered at any length when writing programs before.
+
+*How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
+These projects forced me to write more modular code than I was used to. By keeping things clearly separated, it becomes easier to swap things out later on if needed.
