@@ -40,3 +40,22 @@ I used clear, consistent formatting, thorough commenting and separated logic int
 
 
 **CS255**
+*Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+For the DriverPass project, I had to develop a comprehensive web-based system for the client, DriverPass, in which customers could purchase training packages, access classes and practice tests, and book driving lessons. The system also had to support multiple staff roles.
+
+*What did you do particularly well?
+
+I feel that the UML diagrams turned out well, especially the activity diagrams. They are clear, straightforward and cover their angles.
+
+*If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I would revisit the case diagram first. While readable and presentable, I feel that my final design could have been considerably cleaner and more standardized.
+
+*How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+The interview transcript was the main source, with every design decision focusing around requirements specified by the owner, Liam, or his IT specialist, Ian, in that document. Keeping user needs and client specifications at the center is important, as these considerations are what ensures that the system is actually useful.
+
+*How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+Gathering requirements first is a key habit that this course really showed the importance of. Understanding the users, their needs, and what constraints exist before starting work ensures that development will follow the right trajectory from the start, without the need for constant revision.
