@@ -65,7 +65,7 @@ Gathering requirements first is a key habit that this course really showed the i
 
 *What was the problem you were solving in the projects for this course?
 
-This COurse covered different data structures, and addressed the problem of which structure is ideal for a given scenario.
+This Course covered different data structures, and addressed the problem of which structure is ideal for a given scenario.
 
 *How did you approach the problem? Consider why data structures are important to understand.
 
@@ -82,3 +82,17 @@ These projects were helpful in strengthening my thinking around data structure i
 *How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
 These projects forced me to write more modular code than I was used to. By keeping things clearly separated, it becomes easier to swap things out later on if needed.
+
+**CS320**
+
+*How can I ensure that my code, program, or software is functional and secure?
+
+By writing unit tests that cover expected behavior as well as edge cases, employing critical thinking to approach the testing process from all angles, and by utilizing regular code review, I can make sure that my code works well, fulfills requirements and is secure.
+
+*How do I interpret user needs and incorporate them into a program?
+
+By understanding user requirements and breaking them into specific, testable chunks. As mentioned before, it is also important to approach the testing process critically, rather than just confirming ones own expectations developed while writing the program.
+
+*How do I approach designing software?
+
+I ensure that structure and functionality is well defined before coding begins, so that I have a grounded idea of what a program should look like, and do, before I begin implementing features. This helps keep the project on track, and also ensure a level of clarity, as the resulting program will be logically built from the ground up to fulfill requirements.
