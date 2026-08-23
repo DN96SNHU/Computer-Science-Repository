@@ -96,3 +96,31 @@ By understanding user requirements and breaking them into specific, testable chu
 *How do I approach designing software?
 
 I ensure that structure and functionality is well defined before coding begins, so that I have a grounded idea of what a program should look like, and do, before I begin implementing features. This helps keep the project on track, and also ensure a level of clarity, as the resulting program will be logically built from the ground up to fulfill requirements.
+
+**CS230**
+
+*Briefly summarize The Gaming Room client and software requirements. Who was the client? What type of software did they want you to design?
+
+The client, The Gaming Room, wanted to expand their Android game, called Draw It or Lose It, into a web-based application playable on all major platform. Requirements included storing unique game and team names, only holding one game instance in memory at a time, and support for multiple teams with multiple players.
+
+*What did you do particularly well in developing this documentation?
+
+The evaluation and recommendation was fairly thorough, and I think that the final conclusion that Linux was the way to go was clearly justified.
+
+*What about the process of working through a design document did you find helpful when developing the code?
+
+Defining design constraints at the beginning made subsequent decisions feel like direct responses to the clients needs, helping clarity.
+
+*If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+The executive summary could've been better, I think. The later sections read as more fleshed out.
+
+
+*How did you interpret the user's needs and implement them into your software design? Why is it so important to consider the user's needs when designing?
+
+The clients requirements translated directly into technical patterns, providing a clear structure and helping to ensure that the final experience for the user works as intended.
+
+*How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+Starting with the UML domain model made the class relationships clear and explicit, removing ambiguity and catching potential issues early on. Constraint-first design is something that I would utilize in again in a similar project.
+
